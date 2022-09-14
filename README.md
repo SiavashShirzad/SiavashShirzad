@@ -43,7 +43,7 @@ I have experience with Python, C++, C#, JavaScript, Data Analysis, Data Science,
 - 🤓 Ask me about anything related to AI, ML, and Medicine  
   
 
-- 📖 I like StarWars   
+-  I love StarWars   
 
 
 </td></tr></table>  
