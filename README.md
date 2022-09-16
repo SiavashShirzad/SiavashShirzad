@@ -5,7 +5,7 @@
 
 ### About Me  
 I'm a medical doctor, Neuroscience, neurology, radiology, and AI researcher. I'm currently working as CMIO and head of R&D in AIMedic.
-I have experience with Python, C++, C#, JavaScript, Data Analysis, Data Science, Machine Learning , Deep Learning, Tensorflow, Backend frameworks like FastAPI, and tools like Docker.
+I have experience with Python, C++, C#, JavaScript, Data Analysis, Data Science, Machine Learning , Deep Learning, Tensorflow, Backend frameworks like FastAPI, FireBase and tools like Docker.
 
 
 ## Connect With Me  
