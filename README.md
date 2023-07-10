@@ -4,8 +4,8 @@
 
 
 ### About Me  
-I'm a medical doctor, Neuroscience, neurology, radiology, and AI researcher. I'm currently working as CMIO and head of R&D in AIMedic.
-I have experience with Python, C++, C#, JavaScript, Data Analysis, Data Science, Machine Learning , Deep Learning, Tensorflow, Backend frameworks like FastAPI, FireBase and tools like Docker.
+I'm a medical doctor, Neuroscience, neurology, and radiology researcher.
+I have experience with Python, C++, C#, JavaScript, Data Analysis, Tensorflow, Backend frameworks like FastAPI, FireBase, and tools like Docker.
 
 
 ## Connect With Me  
@@ -32,15 +32,15 @@ I have experience with Python, C++, C#, JavaScript, Data Analysis, Data Science,
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔨 I’m currently working on [Deep Learning models for anatomic segmentation of coronary arteries](https://github.com/SiavashShirzad/CAAS-Net)  
+- 🔨 I’m currently working on Neuroimaging Research
   
 
-- 🕊️ I’m currently learning TensorFlow C++  
+- 🕊️ I’m currently learning Neuroimaging Tools  
 
 
 </td><td valign="top" width="50%">
 
-- 🤓 Ask me about anything related to AI, ML, and Medicine  
+- 🤓 Ask me about anything related to Medicine  
   
 
 -  I love StarWars   
