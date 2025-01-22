@@ -4,7 +4,7 @@
 
 
 ### About Me  
-I'm a medical doctor, Neuroscience, neurology, and radiology researcher.
+I'm a medical doctor, Neuroscience, neurology, Neurosurgery, and Neuroradiology researcher.
 I have experience with Python, C++, C#, JavaScript, Data Analysis, Tensorflow, Backend frameworks like FastAPI, FireBase, and tools like Docker.
 
 
